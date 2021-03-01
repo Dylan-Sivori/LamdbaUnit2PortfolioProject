@@ -17,6 +17,7 @@ sklearn = "*"
 xgboost = "*"
 requests = "*"
 shap = "*"
+category-encoders = "*"
 
 [dev-packages]
 
